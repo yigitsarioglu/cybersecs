@@ -139,3 +139,117 @@ b. uname -a
 **c. last**
 
 d. passwd-username-90
+
+## Soru 12
+
+Aşağıdaki terimlerden hangisi veya hangileri doğrudur?
+
+I. Hacking : Bir sistemi çalışması planlanan şekli dışında kullanmak
+
+II. Risk : Tehdit ve zafiyetin kesiştiği noktadır
+
+III. Payload : Sömürü(exploit) ile sistemde yer edindikten sonra çalıştırılmak istenen kod parçasıdır.
+
+**a. Hepsi**
+
+b. Yalnız I
+
+c. II ve III
+
+d. Yalnız II
+
+## Soru 13
+
+USOM açılımı nedir?
+
+a. Ulusal Siber Olaylara Müdahale
+
+b. Uluslararası Siber Olaylara Müdahale Merkezi
+
+**c. Ulusal Siber Olaylara Müdahale Merkezi**
+
+d. Uluslararası Siber Olaylarla Mücadele
+
+## Soru 14
+
+Wifi ağlarında aşağıdaki şifreleme türlerinden hangisi en güvenli yöntemdir?
+
+a. WEB
+
+b. WPA
+
+c. WEP
+
+**d. WPA2 + PSK**
+
+## Soru 15
+
+Hangisi phishing(oltalama) sitesi olabilir?
+
+a. https://www.btk.gov.tr/
+
+b. https://www.egm.gov.tr/
+
+**c. https://www.devlet-iade.com/**
+
+d. https://www.turkiye.gov.tr/
+
+## Soru 16
+
+Aşağıdakilerden hangisi internet protokolü değildir?
+
+a. IP
+
+b. DNS
+
+c. HTTP
+
+**d. VPS**
+
+## Soru 17
+
+NAT açılımı nedir?
+
+a. Network Adress Transfer
+
+b. Nerd Adress Translation
+
+**c. Network Adress Translation**
+
+d. Network Adress Translation
+
+## Soru 18
+
+Windows'ta şifreleri barındıran process aşağıdakilerden hangisidir?
+
+a. dllhost.exe
+
+**b. lsass.exe**
+
+c. svhost.exe
+
+d. dwm.exe
+
+## Soru 19
+
+"Dinamik olarak ağa katılan bilgisayara IP ataması yapar." Bu protokol aşağıdakilerden hangisidir?
+
+**a. DHCP**
+
+b. ARP
+
+c. TCP
+
+d. UDP
+
+## Soru 20
+
+Amaçları ve yaptıkları işlere göre üç tip hacker vardır. Hangisi bunlardan biri değildir?
+
+a. Beyaz Şapkalı Hacker
+
+b. Gri Şapkalı Hacker
+
+c. Siyah Şapkalı Hacker
+
+**d. Kırmızı Şapkalı Hacker**
