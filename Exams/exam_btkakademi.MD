@@ -114,7 +114,7 @@ b. I3TI<
 
 c. UsoI\/I
 
-d. HaC!<3R
+**d. HaC!<3R**
 
 ## Soru 10
 
