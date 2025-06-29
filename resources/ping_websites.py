@@ -3,8 +3,11 @@
 
 import subprocess
 
-start_number = 1525
-end_number = 1550
+start_number = 1770
+end_number = 1850
+
+# https://www.xyzsportsgiris2.xyz/
+# base_url = "xyzsportsgiris"
 
 
 def ping_website(host):
@@ -20,6 +23,7 @@ def ping_website(host):
 
 def main():
     base_url = "selcuksportshd"
+    
     domain = ".xyz"
     working_urls = []
 
